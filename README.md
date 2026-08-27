@@ -10,6 +10,7 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 * 🌱 Always curious about new technologies
 * 🤝 Open to collaboration, projects & open-source
 * 🚀 **Learn → Build → Break → Fix → Repeat**
+* 🕷️ Fun fact is I am **Spider-Man**
 
 > 💡 *Still learning. Still building. Still debugging.*
 
