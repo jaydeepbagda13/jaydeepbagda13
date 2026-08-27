@@ -34,6 +34,29 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jaydeepbagda13&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=jaydeepbagda13&theme=midnight-purple&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaydeepbagda13&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+</p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaydeepbagda13&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming & Development
@@ -73,23 +96,6 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 🎨 Graphic Design & Visual Editing
 ☁️ Cloud Technologies
 ```
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jaydeepbagda13&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=jaydeepbagda13&theme=midnight-purple&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaydeepbagda13&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaydeepbagda13&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 
 ## 💭 Random Dev Quote
 
