@@ -61,12 +61,6 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaydeepbagda13&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming & Development
@@ -111,12 +105,6 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
-## 📈 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jaydeepbagda13&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ## ⚡ A Little About Me
