@@ -37,8 +37,14 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jaydeepbagda13&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=jaydeepbagda13&theme=midnight-purple&hide_border=false" height="180"/>
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=jaydeepbagda13&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" 
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com/?user=jaydeepbagda13&theme=midnight-purple&hide_border=true" 
+    height="180"
+  />
 </p>
 
 <p align="center">
