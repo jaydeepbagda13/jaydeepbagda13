@@ -53,8 +53,12 @@ I'm a Computer Science student who enjoys turning ideas into **code, visuals, an
 
 <!-- Snake Game Repo View -->
 
+## 🐍 Contribution Activity
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/jaydeepbagda13/jaydeepbagda13/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
 </div>
 
 ## 🏆 GitHub Trophies
